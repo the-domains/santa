@@ -1,5 +1,4 @@
 layout_spectrum: 0.9129626
-typography_spectrum: 0.2541523
 color:
   saturation: 0.7947804
   lightness: 0.09275496
@@ -11,4 +10,5 @@ color:
     - '#949BCF'
     - '#D95258'
   rhythmicContrast: 0.05842225
+typography_spectrum: 0.2541523
 name: Santa
