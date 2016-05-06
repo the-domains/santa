@@ -3,12 +3,12 @@ typography_spectrum: 0.2541523
 color:
   saturation: 0.7947804
   lightness: 0.09275496
-  brandStrength: 0.5893809
-  rhythmicContrast: 0.05842225
+  brandStrength: 0
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FFFFFF'
+    - '#242635'
+    - '#555674'
+    - '#949BCF'
+    - '#D95258'
+  rhythmicContrast: 0.05842225
 name: Santa
